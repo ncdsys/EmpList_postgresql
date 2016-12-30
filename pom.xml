@@ -3,7 +3,7 @@
   <groupId>com.ncodeit.postgresql</groupId>
   <artifactId>EmpList_postgresql</artifactId>
   <packaging>war</packaging>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>EmpList_postgresql Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -29,7 +29,7 @@
     <connection>scm:git:git@github.com:ncdsys/EmpList_postgresql.git</connection>
     <developerConnection>scm:git:git@github.com:ncdsys/EmpList_postgresql.git</developerConnection>
     <url>https://github.com/ncdsys/EmpList_postgresql.git</url>
-    <tag>EmpList_postgresql-1.0</tag>
+    <tag>HEAD</tag>
   </scm>   
   <build>
     <finalName>EmpList_postgresql</finalName>
